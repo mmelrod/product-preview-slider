@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -25,9 +25,9 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main Components 
+Main Components
 
 -------------------------------- */
 .cd-gallery {
@@ -315,7 +315,7 @@ Main Components
   left: 0;
   height: 2px;
   width: 0%;
-  background-color: #a5d05e;
+  background-color: #455E1C;
   opacity: 0;
   -webkit-transition: width 0.2s 0s, opacity 0s 0.2s;
   -moz-transition: width 0.2s 0s, opacity 0s 0.2s;
@@ -360,9 +360,9 @@ Main Components
   display: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-xcredits 
+xcredits
 
 -------------------------------- */
 .credits {
